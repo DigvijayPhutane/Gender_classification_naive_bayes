@@ -1,8 +1,6 @@
 # Gender_classification_naive_bayes
 "Gender classification using Naive Bayes: A simple and efficient notebook for predicting gender based on textual data."
 
-# Gender Classification with Naive Bayes
-
 This project demonstrates the use of three Naive Bayes algorithms (Multinomial, Gaussian, and Bernoulli) for gender classification based on textual data. It's a simple and efficient implementation designed for educational purposes and experimentation.
 
 ## Overview
